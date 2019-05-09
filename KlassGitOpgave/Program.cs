@@ -9,8 +9,9 @@ namespace KlassGitOpgave
     class Program
     {
         static void Main(string[] args)
-        {
+        {          
             Console.WriteLine("Hello one World");
+
             Console.ReadLine();
         }
     }
